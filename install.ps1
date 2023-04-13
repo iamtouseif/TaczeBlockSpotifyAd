@@ -104,7 +104,7 @@ function Test-SpotifyVersion
 
 Write-Host @'
 **********************************
-Authors: @Nuzair46, @KUTlime
+Authors: @Tacze
 **********************************
 '@
 
